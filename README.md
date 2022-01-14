@@ -1,11 +1,11 @@
-#Hello, i'm Stephen and welcome to my profile!
+# Hello, i'm Stephen and welcome to my profile!
 
 
-##I'm a student and cybersecurity enthousiast! 
+## I'm a student and cybersecurity enthousiast! 
 Hello, i'm Stephen. I'm an applied informatics student with a personal intrest in cybersecurity. Feel free to use my projects, summaries and cheat sheets for personal knowledge development! 
 
 
-##Goals for 2021-2022
+## Goals for 2021-2022
 - Write bachelor thesis "5G network security landscape and tools analysis"
 - Create cheat sheet "cybersecurity tools"
 
