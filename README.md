@@ -21,6 +21,10 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 
 - WIP
 
+## ~$ ls cybsf/materials/scripts
+
+- WIP
+
 ## ~$ ls cybsf/materials/others
 
 - WIP
