@@ -9,8 +9,8 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 <br />
 
 ## ~$ ls cybsf/goals_2022
-- Write bachelor thesis "5G network security landscape and tools analysis"
-- Create cheat sheet "cybersecurity tools"
+- Write bachelor thesis: "5G network security landscape and tools analysis"
+- Work on the cheat sheet: "cybersecurity tools cheat sheet"
 - Complete all the starting point tiers in HackTheBox
 
 ## ~$ ls cybsf/materials/summaries
@@ -24,3 +24,8 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 ## ~$ ls cybsf/materials/others
 
 - WIP
+
+## ~$ ls cybsf/github_stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybsf)](https://github.com/anuraghazra/github-readme-stats)
+
