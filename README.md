@@ -1,7 +1,7 @@
 # Hello, i'm Stephen and welcome to my profile!
 
 
-## I'm a student and cybersecurity enthousiast! 
+## [~]$ whoami 
 Hello, i'm Stephen. I'm an applied informatics student with a personal intrest in cybersecurity. Feel free to use my projects, summaries and cheat sheets for personal knowledge development! 
 
 
