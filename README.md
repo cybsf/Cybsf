@@ -17,7 +17,7 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 
 - WIP
 
-## ~$ ls cybsf/cheat_sheets
+## ~$ ls cybsf/cheat_sheets [go to](https://github.com/cybsf/CheatSheets)
 
 - WIP
 
