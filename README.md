@@ -4,6 +4,7 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 **Contact me** \
 \
 <a href="https://www.linkedin.com/in/stephennijsten/"><img align="left" src="https://github.com/cybsf/Cybsf/blob/master/images/linkedin.png" alt="Stephen | LinkedIn" width="21px"/></a>
+\
 
 ## ~$ ls cybsf/goals_2022
 - Write bachelor thesis "5G network security landscape and tools analysis"
