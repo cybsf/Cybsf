@@ -13,5 +13,5 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 - Work on the cheat sheet: "cybersecurity tools cheat sheet"
 - Complete all the starting point tiers in HackTheBox
 
-## ~$ ls cybsf/Knowledge
+## ~$ ls cybsf/knowledge
 - [CheatSheets](https://github.com/cybsf/CheatSheets)
