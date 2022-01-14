@@ -13,23 +13,19 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 - Work on the cheat sheet: "cybersecurity tools cheat sheet"
 - Complete all the starting point tiers in HackTheBox
 
-## ~$ ls cybsf/summaries
+## ~$ ls cybsf/Summaries
 
 - WIP
 
-## ~$ ls cybsf/cheat_sheets [go to](https://github.com/cybsf/CheatSheets)
+## ~$ ls cybsf/[CheatSheets](https://github.com/cybsf/CheatSheets)
 
 - WIP
 
-## ~$ ls cybsf/scripts
+## ~$ ls cybsf/Scripts
 
 - WIP
 
-## ~$ ls cybsf/others
-
-- WIP
-
-## ~$ ls cybsf/github_stats
+## ~$ ls cybsf/Github_stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybsf&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
