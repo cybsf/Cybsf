@@ -10,4 +10,8 @@ Hello, i'm Stephen. I'm an applied informatics student with a personal intrest i
 - Create cheat sheet "cybersecurity tools"
 
 
-### CHEAT SHEETS / SUMMARIES
+### Cheat sheets and summaries
+- Work In Progress
+
+### Projects 
+- Work In Progress
