@@ -11,7 +11,7 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 ## ~$ ls cybsf/goals_2022
 - Write bachelor thesis "5G network security landscape and tools analysis"
 - Create cheat sheet "cybersecurity tools"
-
+- Complete all the starting point tiers in HackTheBox
 
 ## ~$ ls cybsf/materials/summaries
 
