@@ -1,14 +1,20 @@
-## [~]$ whoami 
-Hello, i'm Stephen. I'm an applied informatics student with a personal intrest in cybersecurity. Feel free to use my projects, summaries and cheat sheets for personal knowledge development! 
+## root@cybsf:~# whoami 
+Hello, i'm Cybsf. I'm an applied informatics student with a personal intrest in cybersecurity. Feel free to use my projects, summaries and cheat sheets for personal knowledge development! 
 
 
-## Goals for 2021-2022
+## root@cybsf:~# ls cybsf/goalsFor2022
 - Write bachelor thesis "5G network security landscape and tools analysis"
 - Create cheat sheet "cybersecurity tools"
 
 
-### Cheat sheets and summaries
-- Work In Progress
+## root@cybsf:~# ls cybsf/summaries
 
-### Projects 
-- Work In Progress
+- WIP
+
+## root@cybsf:~# ls cybsf/cheat sheets
+
+- WIP
+
+## root@cybsf:~# ls cybsf/others
+
+- WIP
