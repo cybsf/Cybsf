@@ -19,7 +19,7 @@ import pygame
 
 - **tkinter**: 	package for building the GUI
 - **time**: 	package for using `time.sleep()`
-- **_thread**:	package for using multithreading
+- **\_thread**:	package for using multithreading
 - **pygame**:	package for playing the `.wav` files
 
 ```
