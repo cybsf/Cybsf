@@ -8,12 +8,6 @@ Hello, i'm Stephen aka Cybsf. I'm an applied informatics student with a personal
 <a href="https://app.hackthebox.com/users/243868"><img align="left" src="https://github.com/cybsf/Cybsf/blob/master/images/htb.png" alt="Stephen | HackTheBox" width="30px"/></a>
 <br />
 
-## ~$ ls cybsf/goals_2022
-- Write bachelor thesis: "5G network security landscape and tools analysis"
-- Create and finish a cheat sheet on a monthly basis
-- Complete all the starting point tiers in HackTheBox
-- Start a summary repository with a summary about different cyber attacks
-
 ## ~$ ls cybsf/knowledge
 - [CheatSheets](https://github.com/cybsf/CheatSheets)
 - [Projects](https://github.com/cybsf/Cybsf)
